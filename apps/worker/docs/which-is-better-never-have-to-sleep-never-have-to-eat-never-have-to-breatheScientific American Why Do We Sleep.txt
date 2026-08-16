@@ -1,0 +1,368 @@
+19/01/2026, 01:58 Why Do We Sleep? | Scientific American
+
+January 25, 2019 G Add Us On Google @
+
+Why Do We Sleep?
+
+There are plenty of theories, but nobody really knows for sure
+
+BY TEODORA STOICA
+
+Neuroscience v
+
+This article was published in Scientific American’s former blog network and reflects
+
+the views of the author, not necessarily those of Scientific American
+
+Try to explain to an alien why we sleep. Give it your best shot.
+
+“Well, we get tired. And our brain needs to rest.”
+
+“I see. So, you find another way to defend yourself during rest?”
+
+“Well... no. Our body is paralyzed, and we lose consciousness.”
+
+There is an awkward pause. The alien tilts its head, feigning understanding.
+“But! We sometimes dream!”in
+
+“Dream?”
+
+Blindly, unaware of how ridiculous you sound, you continue with
+unprecedented speed and cadence: “Yes! Dreams are fantastical stories
+projected from the mind into the mind, sometimes mixed with things that have
+
+already happened!”
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/ 1/10
+
+19/01/2026, 01:58 Why Do We Sleep? | Scientific American
+
+You catch your breath, and smile idiotically.
+
+“And... this helps with survival?”
+
+“Well... no. Sometimes the content confuses us in waking life,” you suddenly realize.
+The alien blinks silently a few times, furrowing his non-eyebrows:
+
+“Let me see if I understand. Your species spends one third of their lives paralyzed
+
+watching fantasy movies?”
+
+It is reasonable to assume the human race is doomed at this uncomfortable
+juncture in the conversation, and aliens will plan their stealthy attack during
+
+this incapacitated, seemingly futile stage of our existence.
+
+But sleep isn’t futile. In fact, theories on sleep assert its role in reenergizing the
+body's cells, clearing waste from the brain, and supporting learning and
+memory. It can even regulate mood, appetite and libido. Yet what precisely
+
+happens in our head when it hits the pillow? E.T., you got some learnin’ to do.
+
+Reflections on why we sleep have existed since the beginning of recorded
+history. Some 2,000 years ago, Leucippus, the first “atomist,” described sleep as
+something that happened to the body when “the excretion of fine-textured
+
+atoms exceeds the accretion of psychic warmth.” Fanciful.
+
+Another famed ancient, Lucretius, thought sleep is caused by the spirit being
+attacked and weakened into a state of senescence by mysterious air particles.
+Absurd. Lastly, Aristotle distinguished sleep and waking as diametrically
+opposed phenomena characterized by the absence or presence of perception.
+On the money. He stated: “Sleep is induced by the exhalations of ingested foods
+which thicken and heat the blood, rising to the brain where they are cooled
+
+before coalescing in the heart.”
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/ 2/10
+
+19/01/2026, 01:58 Why Do We Sleep? | Scientific American
+Well at least he had the brain part right. Indeed, electroencephalographic
+(EEG) data measuring brain waves have categorized sleep into two states: non-
+REM (or NREM, further divided into stages S1, $2, $3 and S4) and REM,
+
+which repeat every 90 minutes several times during the night.
+
+When overcome by drowsiness but still awake, brain waves become slower,
+increase in height (amplitude) and become more synchronous (alpha waves).
+The first official stage of sleep serves as transition between awake and sleep,
+and is characterized by theta waves, which are even slower in number
+(frequency) and greater in amplitude than alpha waves. Many sleep-deprived
+individuals experience microsleeps (frighteningly, while driving!), which are
+second-long temporary sleep episodes where theta waves replace alpha wave
+
+activity. Most people are not even aware they were asleep.
+
+During stage 2 sleep, theta wave activity continues, interspersed with
+oscillations between the thalamus, a region of the brain regulating sleep, and
+the rest of the cortex. Stages 1 and 2 are relatively "light" stages of sleep, where
+
+waking up is easy and the sleeper might not recognize they were asleep at all.
+
+Onto stage 3 and 4, characterized by delta waves, the slowest and highest
+amplitude brain waves, the most unlike waking brain waves. Since delta sleep
+is the deepest sleep, it is the most difficult stage in which to wake sleepers, and
+when they are awakened, they are usually sleepy and disoriented. Interestingly,
+
+delta sleep is when sleep walking and sleep talking is most likely to occur.
+
+During NREM sleep, sensory information continues to be transferred and
+encoded in a similar way to the brain when awake—especially at the level of
+sensory cortices. As sleep progresses, reactivity and awareness decrease.
+
+Perceptual activity becomes progressively autonomous. The mind becomes
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/ 3/10
+
+19/01/2026, 01:58 Why Do We Sleep? | Scientific American
+
+focused inwards and becomes less constrained by input from the external
+environment.
+
+This pattern is visualized in analyses examining resting-state networks,
+networks of brain regions activated synchronously. The data show that two
+networks remain active similarly to when awake: the default mode network
+and sensory motor network. The default mode network is activated during
+self-generated thought (daydreaming), while the sensory network is activated
+during stimulus perception. Connectivity to the central executive network, a
+network active during higher-order processing such as inhibition, is reduced
+
+(Figure 1), letting thoughts roam fancy free and creating illogical scenarios
+
+Default Mode Network Sensory Motor Network Central Executive Network
+
+Medial Posterior Motor Sensory Dorsolateral Posterior
+Prefrontal Cingulate Cortex Cortex Prefrontal Parietal
+
+Cortex Cortex Cortex
+
+Figure 1. The resting state networks (RSNs) involved in sleep. Credit: Teodora Stoica
+
+Finally, the one Freud was all excited about: REM. This stage gets its name
+from the darting eye movements that accompany it (Rapid Eye Movement).
+Interestingly, it is also characterized by a sudden and dramatic loss of muscle
+tone—effectively paralysis. Importantly, it is neurologically identical to waking
+(dyssynchronous brain waves) and further characterized by variable changes in
+
+blood pressure, heart rate and overall breathing rate. And of course, dreams.
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/ 4/10
+
+19/01/2026, 01:58 Why Do We Sleep? | Scientific American
+
+Plato was the first to muse psychologically about dreams, stating: “In all of us,
+even the most highly respectable, there is a lawless wild beast nature, which
+peers out in sleep.” This presages Freud’s wish-fulfillment theory of dreaming
+yet doesn’t neurologically explain that thing Martin Luther King, Jr., had in
+1963.
+
+Firstly, dreams are not hallucinations. While they share some characteristics in
+common with clinical disorders such as schizophrenia, hallucinations are
+defined by whole-brain activation. They are veridical movies projected onto
+reality that the individual remembers well. Dreams in contrast, are
+characterized by primary and secondary sensory cortices activation, coupled
+with disrupted recruitment of the frontal cortex, gate keeper of important
+higher-order functions like inhibition. If the dream is imbibed in high in
+
+emotional content, the limbic system is also implicated.
+
+Critically, lack of frontal function opens the floodgates to reduced self-
+awareness and bizarre dream contents, while restricting any incoming
+information and creating a tight self-contained dream loop. This is perhaps
+most poetically described by Heraclitus, who commented on the subjective
+nature of dreams in his memorable phrase, “for those who are awake there is a
+single, common universe, whereas in sleep each person turns away into his
+
+own private universe.”
+
+A note on lucid dreaming—being aware that you're in a dream. A few studies
+have found evidence for increased activation of the prefrontal cortex during
+lucid dreaming, compared to normal REM sleep. The area’s typical
+deactivation is responsible for the socially inappropriate behaviors and
+inability to reason logically that is sometimes experienced during dreams, if
+
+they are remembered upon waking.
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/ 5/10
+
+19/01/2026, 01:58 Why Do We Sleep? | Scientific American
+
+In case you don’t remember your dreams, you can always Google them.
+Seriously. The Google artificial neural network is like a computer brain,
+inspired by the central nervous system of animals. When given free rein to
+create images out of white noise, it outputs beautiful, intricate, Escher-esque
+images, what Google engineers are terming “AI Dreams.” The neural network’s
+dreams are being used to understand how a computer can make sense out of
+
+nonsense—or learn.
+
+We've arrived at E.T.’s original inquiry: “But why do we sleep?” The easiest
+answer is, we don't yet know, but theories abound. One theory has to do with
+sleep playing an important role in memory consolidation, that is, a memory’s
+ability to stick. Research suggests REM sleep strengthens weakened neural
+circuits holding past memories to prepare them for future cognitive
+processing, in addition to filtering out unnecessary memories. A study by Poe,
+et. al (2014) articulates this: “The evidence points to an overall function of
+embossing of synaptic circuits to add definition to and integrate memories,
+distinguishing them from the noise introduced to synaptic weights throughout
+
+wakefulness.”
+
+Termed the “synaptic homeostasis hypothesis,” it suggests that during sleep
+there is widespread weakening of connections (synapses) throughout the
+brain. This is thought to counterbalance the overall strengthening of
+connections that occurs during learning when we are awake. By pruning away
+excess connections, sleep effectively “cleans the slate” so we can learn again the
+next day. Interfering with this scaling down process can, in some cases, lead to
+
+more intense (and perhaps unwanted) memories.
+
+Another theory, since E.T. doesn’t seem impressed, is that sleep is restorative:
+
+it flushes out toxins. During sleep, the space between brain cells increases,
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/ 6/10
+
+19/01/2026, 01:58 Why Do We Sleep? | Scientific American
+
+allowing toxic proteins to be flushed out. It’s possible that by removing these
+toxins from the brain, sleep may stave off neurodegenerative diseases like
+Alzheimer’s. Indeed, in an October 2013 issue of the journal Science,
+researchers published the results of a study indicating that the brain utilizes
+sleep to flush out toxins. This waste removal system, they suggest, is one of the
+major reasons why we sleep.
+
+While we don’t have a precise overarching definition of sleep’s function, it
+impacts different physiological and psychological purposes including cleaning
+up brain toxins and consolidating information into memory, so it is possible
+that each of these theories can be used to explain why we sleep; we just haven't
+
+worked it out. Give us a break, E.T., we're asleep most of the time.
+
+RIGHTS & PERMISSIONS
+
+TEODORA STOICA is a Ph.D. candidate in the Translational Neuroscience Department at the University of
+Louisville. She writes about science on her personal blog CuriousCortex and is a member of the
+Communications Committee at the Organization for Human Brain Mapping. You can follow her on Twitter
+@CuriousCortex.
+
+More by Teodora Stoica
+
+It’s Time to Stand Up for Science
+
+If you enjoyed this article, I’d like to ask for your support. Scientific American has served as an
+advocate for science and industry for 180 years, and right now may be the most critical moment in that
+two-century history.
+
+I’ve been a Scientific American subscriber since | was 12 years old, and it helped shape the way | look
+at the world. SciAm always educates and delights me, and inspires a sense of awe for our vast,
+beautiful universe. | hope it does that for you, too.
+
+If you subscribe to Scientific American, you help ensure that our coverage is centered on meaningful
+research and discovery; that we have the resources to report on the decisions that threaten labs across
+the U.S.; and that we support both budding and working scientists at a time when the value of science
+
+itself too often goes unrecognized.
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/ 7/10
+
+19/01/2026, 01:58 Why Do We Sleep? | Scientific American
+In return, you get essential news, captivating podcasts, brilliant infographics, can't-miss newsletters,
+must-watch videos, challenging games, and the science world's best writing and reporting. You can
+even gift someone a subscription.
+
+There has never been a more important time for us to stand up and show why science matters. | hope
+you'll support us in that mission.
+
+Thank you,
+David M. Ewalt, Editor in Chief, Scientific American
+
+Popular Stories
+
+MIND & BRAIN | JANUARY 16, 2026 THE UNIVERSE [| JANUARY 16, 2026
+RFK, Jr., shifts focus to For Stars, It’s Not Easy Being
+questioning whether cell phones Green
+
+A .
+are safe. Here’s what the science Stars emit lots of green light, but our eyes don’t let us
+says see them that way
+The possible health effects of radiofrequency waves PHIL PLAIT
+
+emitted by cell phones has been a subject of debate for
+decades
+
+JACKIE FLYNN MOGENSEN
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/ 8/10
+
+19/01/2026, 01:58
+
+F
+
+SPACE EXPLORATION
+
+JANUARY 17, 2026
+
+NASA’s Artemis I] mission to the
+moon is inching toward launch
+
+NASA rolled out the fully stacked Artemis IT rocket and
+Orion capsule on Saturday, embarking on a four-mile
+journey to the launch pad
+
+CLAIRE CAMERON
+
+ARTIFICIAL INTELLIGENCE | JANUARY 17, 2026
+
+The next Al revolution could start
+with world models
+
+Why today’s AI systems struggle with consistency, and
+how emerging world models aim to give machines a
+steady grasp of space and time
+
+DENI ELLIS BECHARD
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/
+
+Why Do We Sleep? | Scientific American
+
+ANIMALS jf JANUARY 16, 2026
+
+It’s so cold in Florida that iguanas
+might rain from the skies
+
+Florida’s iguanas are an introduced species, and they
+aren't used to the chilly temperatures the state is
+currently experiencing
+
+MEGHAN BARTELS
+
+STRING THEORY
+
+JANUARY 14, 2026
+
+Does String Theory Explain the
+Wiring of the Brain?
+Mathematical tools from string theory are giving
+
+scientists a new way to study the networking of
+
+neurons
+
+LEE BILLINGS
+
+9/10
+
+19/01/2026, 01:58 Why Do We Sleep? | Scientific American
+
+Subscribe to Scientific American to learn and share the
+most exciting discoveries, innovations and ideas
+
+shaping our world today.
+
+Subscription Plans
+
+Give a Gift Subscription
+
+https://www.scientificamerican.com/blog/observations/why-do-we-sleep/ 10/10

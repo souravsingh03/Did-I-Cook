@@ -1,0 +1,7 @@
+sentence-transformers
+tqdm
+pinecone
+python-dotenv
+fastapi
+uvicorn[standard]
+

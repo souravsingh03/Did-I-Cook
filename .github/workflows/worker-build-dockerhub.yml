@@ -1,0 +1,27 @@
+name: Build worker image (local CI; Render builds from repo)
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Build worker image (local only — no push)
+        env:
+          SHORT_SHA: ${{ github.sha }}
+        run: |
+          # Render will build from the repo. This CI step builds locally for verification
+          cd apps/worker
+          docker buildx build \
+            --platform linux/amd64,linux/arm64 \
+            -t did-i-cook-worker:ci-${SHORT_SHA::7} \
+            .

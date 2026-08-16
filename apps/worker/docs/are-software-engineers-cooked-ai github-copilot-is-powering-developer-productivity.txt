@@ -1,0 +1,401 @@
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+When the GitHub Copilot Technical Preview launched just over one year ago, we wanted
+to know one thing: Is this tool helping developers? The GitHub Next team conducted
+research using a combination of surveys and experiments, which led us to expected and
+unexpected answers.
+
+@&, GitHub Copilot
+
+Eirini Kalliamvakou - @ikaliam
+September 7, 2022
+Updated May 21, 2024
+
+© 8 minutes
+
+Share:
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 1/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+of inducing decision fatigue. When we first launched a technical preview of GitHub Copilot in
+2021, our hypothesis was that it would improve developer productivity and, in fact, early users
+shared reports that it did. In the months following its release, we wanted to better
+understand and measure its effects with quantitative and qualitative research. To do that, we
+first had to grapple with the question: what does it mean to be productive?
+
+Why is developer productivity so difficult to
+measure?
+
+When it comes to measuring developer productivity, there is little consensus and there are
+far more questions than answers. For example:
+
+¢ What are the “right” productivity metrics? [1, 2]
+¢ How valuable are self-reports of productivity? [3]
+
+e Is the traditional view of productivity—outputs over inputs—a good fit for the complex
+problem solving and creativity involved in development work? [4].
+
+In a 2021 study, we found that developers’ own view of productivity has a twist-it’s more akin
+to having a_ good day. The ability to stay focused on the task at hand, make meaningful
+
+progress, and feel good at the end of a day’s work make a real difference in developers’
+satisfaction and productivity.
+
+This isn’t a one-off finding, either. Other academic research shows that these outcomes are
+important for developers [5] and that satisfied developers perform better [6, 7]. Clearly,
+there’s more to developer productivity than inputs and outputs.
+
+How do we think about developer
+productivity at GitHub?
+
+Because Al-assisted development is a relatively new field, as researchers we have little prior
+research to draw upon. We wanted to measure GitHub Copilot’s effects, but what are they?
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 2/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+¢ Look at productivity holistically. At GitHub we like to think broadly and sustainably
+about developer productivity and the many factors that influence it. We used the SPACE
+
+productivity framework to pick which aspects to investigate.
+
+¢ Include developers’ first-hand perspective. We conducted multiple rounds of research
+including qualitative (perceptual) and quantitative (observed) data to assemble the full
+picture. We wanted to verify: (a) Do users’ actual experiences confirm what we infer from
+
+telemetry? (b) Does our qualitative feedback generalize to our large user base?
+
+e¢ Assess GitHub Copilot’s effects in everyday development scenarios. When setting up
+our studies, we took extra care to recruit professional developers, and to design tests
+around typical tasks a developer might work through in a given day.
+
+&~, GitHub Copilot trial
+
+The most widely adopted Al developer tool
+
+Start free trial >
+
+Let’s dig in and see what we found!
+
+Finding 1: Developer productivity goes beyond
+speed
+
+Through a large-scale survey, we wanted to see if developers using GitHub Copilot see
+benefits in other areas beyond speeding up tasks. Here’s what stood out:
+
+¢ Improving developer satisfaction. Between 60-75% of users reported they feel more
+fulfilled with their job, feel less frustrated when coding, and are able to focus on more
+satisfying work when using GitHub Copilot. That's a win for developers feeling good
+about what they do!
+
+¢ Conserving mental energy. Developers reported that GitHub Copilot helped them stay
+in the flow (73%) and preserve mental effort during repetitive tasks (87%). That's
+developer happiness right there, since we know from previous research that context
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 3/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+What the charts show, and how to read them
+
+7 Helpful context: In the survey, we included statements that covered all dimensions
+of the SPACE framework. SPACE is the acronym for a multidimensional framework
+that describes several aspects of developer productivity: (1) Satisfaction and well-
+being; (2) Performance; (3) Activity; (4) Communication and collaboration; and (5)
+Efficiency and flow. In this post, we focus on the results from the dimensions of
+“Satisfaction and well-being” and “Efficiency and flow.” Both dimensions are critical to
+developer productivity and are often overlooked. We're also preparing more
+publications of our findings and data, so we can't share everything today!
+
+tl What the charts show: The charts below show the percentage of respondents
+who agreed with the corresponding statement (strongly agree + agree). The >2,000
+responses we received came from developers that were signed up in the Technical
+Preview. They were primarily professional developers (~60%), though we also received
+responses from students (~30%), and developers who identified as hobbyists (~7%).
+
+If you want a refresher on how we also correlated the productivity results to how much
+developers use GitHub Copilot, check out our previous blog post, and our academic
+
+paper.
+
+Table: Survey responses measuring dimensions of
+developer productivity when using GitHub Copilot
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 4/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+Perceived Productivity
+
+| am more productive 88%
+
+Satisfaction and Well-being*
+
+Less frustrated when coding 59%
+More fulfilled with my job 60%
+Focus on more satisfying work 74%
+
+Efficiency and Flow*
+
+Faster completion 88%
+Faster with repetitive tasks 96%
+More in the flow 73%
+
+Less time searching 77%
+
+Less mental effort on repetitive tasks 87%
+
+All questions were modeled off of the SPACE framework,
+
+Developers see GitHub Copilot as a productivity aid, but there’s more to it than that. One
+user described the overall experience:
+
+(With Copilot) | have to think less, and when | have to
+think it’s the fun stuff. It sets off a little spark that makes
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 5/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+The takeaway from our qualitative investigation was that letting GitHub Copilot shoulder
+the boring and repetitive work of development reduced cognitive load. This makes room
+for developers to enjoy the more meaningful work that requires complex, critical thinking
+and problem solving, leading to greater happiness and satisfaction.
+
+Finding 2: ... but speed is important, too
+
+In the survey, we saw that developers reported they complete tasks faster when using
+GitHub Copilot, especially repetitive ones. That was an expected finding (GitHub Copilot
+writes faster than a human, after all), but >90% agreement was still a pleasant surprise.
+Developers overwhelmingly perceive that GitHub Copilot is helping them complete tasks
+faster—can we observe and measure that effect in practice? For that we conducted a
+controlled experiment.
+
+Figure: Summary of the experiment process and results
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 6/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+developers, and split them randomly into two groups.
+
+' We gave them the task of writing a web server in JavaScript
+
+GitHub Copilot GitHub Copilot
+
+® 45 Used % 50 Did not use
+
+Fl 78% = 70%
+
+finished : finished
+© hour, 11 minutes @ 2hours, 41 minutes
+average to complete the task average to complete the task
+
+1
+1
+
+1 = -
+
+! ft ie
+
+1
+
+' 71 minutes | that’s 55% less time! 161 minutes
+
+Nd
+GF Results are statistically significant (P=.0017) and the 95% confidence interval is [21%, 89%]
+
+We recruited 95 professional developers, split them randomly into two groups, and timed
+how long it took them to write an HTTP server in JavaScript. One group used GitHub Copilot
+to complete the task, and the other one didn't. We tried to contro! as many factors as we
+could-all developers were already familiar with JavaScript, we gave everyone the same
+instructions, and we leveraged GitHub Classroom to automatically score submissions for
+correctness and completeness with a test suite. We’re sharing a behind-the-scenes blog
+post soon about how we set up our experiment!
+
+In the experiment, we measured—on average—how successful each group was in completing
+the task and how long each group took to finish.
+
+¢ The group that used GitHub Copilot had a higher rate of completing the task (78%,
+compared to 70% in the group without Copilot).
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 7/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+minutes to complete the task, while the developers who didn’t use GitHub Copilot took
+on average 2 hours and 41 minutes. These results are statistically significant (P=0017)
+and the 95% confidence interval for the percentage speed gain is [21%, 89%].
+
+There’s more to uncover! We're conducting more experiments and a more thorough analysis
+of the experiment data we already collected—looking into heterogeneous effects, or potential
+effects on the quality of code—and we are planning further academic publications to share
+our findings.
+
+What do these findings mean for
+developers?
+
+We’re here to support developers while they build software—that includes working more
+efficiently and finding more satisfaction in their work. In our research, we saw that GitHub
+Copilot supports faster completion times, conserves developers’ mental energy, helps
+them focus on more satisfying work, and ultimately find more fun in the coding they do.
+
+We're also hearing that these benefits are becoming material to engineering leaders in
+companies that ran early trials with GitHub Copilot. When they consider how to keep their
+
+engineers healthy and productive, they are thinking through the same lens of holistic
+developer wellbeing and promoting the use of tools that bring delight.
+
+The engineers’ satisfaction with doing edgy things and
+us giving them edgy tools is a factor for me. Copilot
+makes things more exciting.
+
+- CTO, Large Engineering Org
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 8/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+broadly, the research community is trying to understand GitHub Copilot’s implications in a
+number of contexts: education, security, labor market, as well as developer practices and
+
+behaviors. We are all currently learning by trying GitHub Copilot in a variety of settings. This
+is an evolving field, and we’re excited for the findings that the research community —
+including us — will uncover in the months to come.
+
+Acknowledgements
+
+We are very grateful to all the developers who participated in the survey and experiments-we
+would be in the dark without your input! GitHub Next conducted the experiment in
+partnership with the Microsoft Office of the Chief Economist, and specifically in
+collaboration with Sida Peng and Aadharsh Kannan.
+
+Tags: GitHub Copilot research
+
+Written by
+
+Eirini Kalliamvakou
+= @ikaliam
+
+Dr. Eirini Kalliamvakou is a Research Advisor at GitHub, and leads research
+that deciphers developers' motivations, needs, behavior, and how tools
+support them. Her insights shape product thinking, strategic storytelling,
+and leadership decisions across the company. Eirini holds a PhD in
+Computer Science from the University of Victoria, and speaks about
+developer productivity, happiness, and the impact of Al on individuals,
+teams, and organizations.
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 9/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+DULOINS an ASCNnuic MEMOry SyStem fOr ulitMuUuy VOPIOL
+
+Copilot’s cross-agent memory system lets agents learn and improve across your
+development workflow, starting with coding agent, CLI, and code review.
+
+Tiferet Gazit
+
+What Al is actually good for, according to developers
+
+Al is designed to help you do what you love most, not replace your expertise. Discover how
+developer feedback and real-world experience are shaping Al coding tools that keep you
+in control.
+
+Cassidy Williams
+
+Related posts
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 10/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+GitHub Availability Report: December 2025
+
+In December, we experienced five incidents that resulted in degraded performance
+across GitHub services.
+
+Jakub Oleksy
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 11/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+Blog
+
+sustainability. We call it Continuous Efficiency.
+
+Paull Young
+
+Let’s talk about GitHub Actions
+
+A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested
+upgrades to improve performance, workflow flexibility, reliability, and everyday developer
+experience.
+
+Ben De St Paer-Gotch
+
+Explore more from GitHub
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 12/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+Docs
+
+Everything you need to master GitHub, all in one place.
+
+Goto Docs (%
+
+¥*
+
+Join GitHub Galaxy
+
+Register now for our global enterprise event on March 28-31.
+
+Register now (7
+
+&
+
+GitHub Copilot
+
+Don't fly solo. Try 30 days for free.
+
+Learn more >
+
+Ke
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 13/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+Get started (7
+
+Discover tips, technical guides, and best practices in our biweekly newsletter just
+for devs.
+
+* Your email address
+
+@ Yes please, I'd like GitHub and affiliates to use my information for personalized communications, targeted
+advertising and campaign effectiveness. See the GitHub Privacy Statement for more details.
+
+Features Developer API Docs About
+
+Security Partners Community Forum Blog
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 14/15
+
+19/01/2026, 01:31 Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog
+
+Frceiny VILMUD VESKLOV VONLUCL onopyp
+
+Resources
+
+Terms Privacy Manage Cookies
+
+Do not share my personal information in [> | xX J ey s)
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/ 15/15

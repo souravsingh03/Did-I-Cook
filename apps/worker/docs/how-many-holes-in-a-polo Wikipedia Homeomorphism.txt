@@ -1,0 +1,238 @@
+19/01/2026, 01:43 Homeomorphism - Wikipedia
+
+WIKIPEDIA
+
+25 years of the free encyclopedia
+
+Homeomorphism
+
+In mathematics and more specifically in topology, a homeomorphism (from Greek roots meaning
+"similar shape", named by Henri Poincaré), I[2] also called topological isomorphism, or
+bicontinuous function, is a bijective and continuous function between topological spaces that has a
+continuous inverse function. Homeomorphisms are the isomorphisms in the category of topological
+spaces—that is, they are the mappings that preserve all the topological properties of a given space.
+Two spaces with a homeomorphism between them are called homeomorphic, and from a
+topological viewpoint they are the same.
+
+Very roughly speaking, a topological space is a geometric object, and a homeomorphism results from a
+continuous deformation of the object into a new shape. Thus, a square and a circle are homeomorphic
+to each other, but a sphere and a torus are not. However, this description can be misleading. Some
+continuous deformations do not produce homeomorphisms, such as the deformation of a line into a
+point. Some homeomorphisms do not result from continuous deformations, such as the
+homeomorphism between a trefoil knot and a circle. Homotopy and isotopy are precise definitions for
+the informal concept of continuous deformation.
+
+Definition
+
+A function f : X — Y between two topological spaces is a homeomorphism if it has the following
+properties:
+
+« f is a bijection (one-to-one and onto),
+
+« f is continuous,
+
+= the inverse function fl is continuous (f is an open mapping).
+A homeomorphism is sometimes called a bicontinuous function. If such a function exists, X and Y
+are homeomorphic. A self-homeomorphism is a homeomorphism from a topological space onto
+itself. Being "homeomorphic" is an equivalence relation on topological spaces. Its equivalence classes
+are called homeomorphism classes.
+
+The third requirement, that ful be continuous, is essential. Consider for instance the function
+f : (0,27) — S* (the unit circle in R?) defined byf(v) = (cos y, sing). This function is bijective
+and continuous, but not a homeomorphism ($1 is compact but [0, 277) is not). The function f~! is not
+continuous at the point (1,0), because although f~! maps (1,0) to 0, any neighbourhood of this
+point also includes points that the function maps close to 27, but the points it maps to numbers in
+between lie outside the neighbourhood.!3!
+
+Homeomorphisms are the isomorphisms in the category of topological spaces. As such, the
+composition of two homeomorphisms is again a homeomorphism, and the set of all self-
+
+homeomorphisms X — X forms a group, called the homeomorphism group of X, often denoted
+
+https://en.wikipedia.org/wiki/Homeomorphism
+
+1/4
+
+19/01/2026, 01:43 Homeomorphism - Wikipedia
+
+Homeo(X). This group can be given a topology, such as the compact-open topology, which under
+
+certain assumptions makes it a topological group.(41
+
+In some contexts, there are homeomorphic objects that cannot be continuously deformed from one to
+the other. Homotopy and isotopy are equivalence relations that have been introduced for dealing with
+
+such situations.
+
+Similarly, as usual in category theory, given two spaces that are homeomorphic, the space of
+homeomorphisms between them, Homeo(X,Y), is a torsor for the homeomorphism groups
+Homeo(X) and Homeo(Y), and, given a specific homeomorphism between X and Y, all three sets
+
+are identified.
+
+Examples
+
+« The open interval (a, b) is homeomorphic to the real
+numbers R for any a < b. (In this case, a
+bicontinuous forward mapping is given by
+f(z) = — + = while other such mappings are
+
+given by scaled and translated versions of the tan or
+arg tanh functions).
+
+= The unit 2-disc D? and the unit square in R? are
+homeomorphic; since the unit disc can be deformed
+into the unit square. An example of a bicontinuous
+mapping from the square to the disc is, in polar
+coordinates,
+
+p
+9) + 59).
+(0,8) > (sano) )
+
+= The graph of a differentiable function is
+homeomorphic to the domain of the function.
+
+= Adifferentiable parametrization of a curve is a
+homeomorphism between the domain of the
+parametrization and the curve.
+
+= Achart of a manifold is a homeomorphism between
+an open subset of the manifold and an open subset
+of a Euclidean space.
+
+A thickened trefoil knot is homeomorphic to a
+solid torus, but not isotopic in R?®. Continuous
+mappings are not always realizable as
+deformations.
+
+= The stereographic projection is a homeomorphism between the unit sphere in R? with a single
+point removed and the set of all points in R? (a 2-dimensional plane).
+
+« If Gis a topological group, its inversion map x +> x~
+the left translation y +> zy, the right translation y +> ya, and the inner automorphism y +> xyz!
+
+are homeomorphisms.
+
+Counter-examples
+
+» R” and R” are not homeomorphic for m # n.
+
+https://en.wikipedia.org/wiki/Homeomorphism
+
+is a homeomorphism. Also, for any x € G,
+
+2/4
+
+19/01/2026, 01:43 Homeomorphism - Wikipedia
+
+= The Euclidean real line is not homeomorphic to the unit circle as a subspace of R?, since the unit
+circle is compact as a subspace of Euclidean R? but the real line is not compact.
+
+» The one-dimensional intervals [0, 1] and (0, 1) are not homeomorphic because one is compact
+while the other is not.
+
+Properties
+
+=» Two homeomorphic spaces share the same topological properties. For example, if one of them is
+compact, then the other is as well; if one of them is connected, then the other is as well; if one of
+them is Hausdorff, then the other is as well; their homotopy and homology groups will coincide.
+Note however that this does not extend to properties defined via a metric; there are metric spaces
+that are homeomorphic even though one of them is complete and the other is not.
+
+=» Ahomeomorphism is simultaneously an open mapping and a closed mapping; that is, it maps
+open sets to open sets and closed sets to closed sets.
+
+= Every self-homeomorphism in S* can be extended to a self-homeomorphism of the whole disk D
+(Alexander's trick).
+
+Informal discussion
+
+The intuitive criterion of stretching, bending, cutting and gluing back together takes a certain amount
+of practice to apply correctly—it may not be obvious from the description above that deforming a line
+segment to a point is impermissible, for instance. It is thus important to realize that it is the formal
+definition given above that counts. In this case, for example, the line segment possesses infinitely
+many points, and therefore cannot be put into a bijection with a set containing only a finite number of
+points, including a single point.
+
+This characterization of a homeomorphism often leads to a confusion with the concept of homotopy,
+which is actually defined as a continuous deformation, but from one function to another, rather than
+one space to another. In the case of a homeomorphism, envisioning a continuous deformation is a
+mental tool for keeping track of which points on space X correspond to which points on Y—one just
+follows them as X deforms. In the case of homotopy, the continuous deformation from one map to the
+other is of the essence, and it is also less restrictive, since none of the maps involved need to be one-
+to-one or onto. Homotopy does lead to a relation on spaces: homotopy equivalence.
+
+There is a name for the kind of deformation involved in visualizing a homeomorphism. It is (except
+when cutting and regluing are required) an isotopy between the identity map on X and the
+homeomorphism from X to Y.
+
+See also
+
+= Local homeomorphism — Mathematical function revertible near each point
+= Diffeomorphism — Isomorphism of differentiable manifolds
+
+« Uniform isomorphism — Uniformly continuous homeomorphism is an isomorphism between
+uniform spaces
+
+https://en.wikipedia.org/wiki/Homeomorphism 3/4
+
+19/01/2026, 01:43 Homeomorphism - Wikipedia
+
+Isometric isomorphism — Distance-preserving mathematical transformation is an isomorphism
+between metric spaces
+
+Homeomorphism group
+
+Dehn twist — Term in geometric topology
+
+Homeomorphism (graph theory) — Graphs that differ only by edge subdivision (closely related to
+graph subdivision)
+
+Homotopy#lsotopy — Continuous deformation between two continuous functions
+
+Mapping class group — Group of isotopy classes of a topological automorphism group
+
+Poincaré conjecture — Theorem in geometric topology
+
+Universal homeomorphism
+
+References
+
+. Poincaré, H. (1895). Analysis Situs (https://web.archive.org/web/20160611022329/http://serge.me
+
+hl.free.fr/anx/ana_situs.html). Journal de I'Ecole polytechnique. Gauthier-Villars.
+
+OCLC 715734142 (https://search.worldcat.org/oclc/715734142). Archived from the original (http://
+serge.mehl.free.fr/anx/ana_situs.html) on 11 June 2016. Retrieved 29 April 2018.
+
+Poincaré, Henri (2010). Papers on Topology: Analysis Situs and Its Five Supplements. Translated
+by Stillwell, John. American Mathematical Society. ISBN 978-0-8218-5234-7.
+
+. Gamelin, T. W.; Greene, R. E. (1999). Introduction to Topology (https://books.google.com/books?i
+
+d=thAHAGyV2MQC&pg=PA67) (2nd ed.). Dover. p. 67. ISBN 978-0-486-40680-0.
+
+. Vaisala, Jussi (1999). Topologia |. Limes RY. p. 63. ISBN 951-745-184-9.
+. Dijkstra, Jan J. (1 December 2005). "On Homeomorphism Groups and the Compact-Open
+
+Topology" (http://www.cs.vu.nl/~dijkstra/research/papers/2005compactopen.pdf) (PDF). The
+
+American Mathematical Monthly. 112 (10): 910-912. doi:10.2307/30037630 (https://doi.org/10.230
+
+7%2F30037630). JSTOR 30037630 (https://www.jstor.org/stable/30037630). Archived (https://we
+
+b.archive.org/web/20160916112245/http://www.cs.vu.nl/~dijkstra/research/papers/2005compactop
+
+en.pdf) (PDF) from the original on 16 September 2016.
+
+External links
+
+"Homeomorphism" (https://www.encyclopediaofmath.org/index.php?title=Homeomorphism),
+Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Homeomorphism&oldid=1328300518"
+
+https://en.wikipedia.org/wiki/Homeomorphism
+
+4/4

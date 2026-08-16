@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #fffbf5;
+  --foreground: #18181b;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' stroke='%23e5e0d8' stroke-width='1' opacity='0.4'%3E%3Cellipse cx='30' cy='18' rx='10' ry='7'/%3E%3Ccircle cx='23' cy='17' r='5'/%3E%3Ccircle cx='37' cy='17' r='5'/%3E%3Ccircle cx='30' cy='13' r='5'/%3E%3Crect x='20' y='24' width='20' height='6' rx='1'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: 80px 80px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: #f97316;
+  color: white;
+}
+
+/* Scrolling background pattern animation */
+@keyframes scroll-pattern {
+  from {
+    background-position: 0px 0px;
+  }
+  to {
+    background-position: 120px 120px;
+  }
+}
+
+.animate-scroll-pattern {
+  animation: scroll-pattern 10s linear infinite;
+}
