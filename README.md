@@ -1,6 +1,6 @@
 # Did-I-Cook? 
 
-A real-time, AI-judged debate app where two players debate a topic on video and an AI (Gemini) scores them with evidence-backed reasoning using a RAG pipeline (Pinecone + sentence embeddings). The project includes a Next.js frontend, a Spring Boot backend (API + signaling), and a deployed FastAPI worker for semantic search. BIG THANKS to Kaelyn Cho for her amazing artwork she's provided for this project <:
+A real-time, AI-judged debate app where two players debate a topic on video and an AI (Gemini) scores them with evidence-backed reasoning using a RAG pipeline (Pinecone + sentence embeddings). The project includes a Next.js frontend, a Spring Boot backend (API + signaling), and a deployed FastAPI worker for semantic search.
 
 ---
 
